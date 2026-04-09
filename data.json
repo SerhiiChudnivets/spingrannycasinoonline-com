@@ -160,64 +160,40 @@
   "color_main_btn_text": null,
   "redirect_link": "https://visquick.com/go",
   "logo": {
-    "id": 108,
-    "name": "banner.webp",
-    "url": "/uploads/banner_737cde7198.webp",
+    "id": 120,
+    "name": "logo.webp",
+    "url": "/uploads/logo_3f2cca1c40.webp",
     "formats": {
-      "small": {
-        "ext": ".webp",
-        "url": "/uploads/small_banner_737cde7198.webp",
-        "hash": "small_banner_737cde7198",
-        "mime": "image/webp",
-        "name": "small_banner.webp",
-        "path": null,
-        "size": 5.61,
-        "width": 500,
-        "height": 250,
-        "sizeInBytes": 5606
-      },
       "thumbnail": {
         "ext": ".webp",
-        "url": "/uploads/thumbnail_banner_737cde7198.webp",
-        "hash": "thumbnail_banner_737cde7198",
+        "url": "/uploads/thumbnail_logo_3f2cca1c40.webp",
+        "hash": "thumbnail_logo_3f2cca1c40",
         "mime": "image/webp",
-        "name": "thumbnail_banner.webp",
+        "name": "thumbnail_logo.webp",
         "path": null,
-        "size": 2.05,
+        "size": 3.8,
         "width": 245,
-        "height": 122,
-        "sizeInBytes": 2046
+        "height": 56,
+        "sizeInBytes": 3796
       }
     }
   },
   "popup_logo": {
-    "id": 109,
-    "name": "banner.webp",
-    "url": "/uploads/banner_8c803f40e4.webp",
+    "id": 121,
+    "name": "logo.webp",
+    "url": "/uploads/logo_d1b48bbd7c.webp",
     "formats": {
-      "small": {
-        "ext": ".webp",
-        "url": "/uploads/small_banner_8c803f40e4.webp",
-        "hash": "small_banner_8c803f40e4",
-        "mime": "image/webp",
-        "name": "small_banner.webp",
-        "path": null,
-        "size": 5.61,
-        "width": 500,
-        "height": 250,
-        "sizeInBytes": 5606
-      },
       "thumbnail": {
         "ext": ".webp",
-        "url": "/uploads/thumbnail_banner_8c803f40e4.webp",
-        "hash": "thumbnail_banner_8c803f40e4",
+        "url": "/uploads/thumbnail_logo_d1b48bbd7c.webp",
+        "hash": "thumbnail_logo_d1b48bbd7c",
         "mime": "image/webp",
-        "name": "thumbnail_banner.webp",
+        "name": "thumbnail_logo.webp",
         "path": null,
-        "size": 2.05,
+        "size": 3.8,
         "width": 245,
-        "height": 122,
-        "sizeInBytes": 2046
+        "height": 56,
+        "sizeInBytes": 3796
       }
     }
   },
@@ -425,8 +401,8 @@
       "submenu": []
     }
   ],
-  "_generated_at": "2026-04-09T16:54:29.459Z",
+  "_generated_at": "2026-04-09T17:28:07.695Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-09T16:54:30.007Z",
-  "_deploy_trigger": "lt43u"
+  "_last_deploy": "2026-04-09T17:28:08.250Z",
+  "_deploy_trigger": "mpphd"
 }
