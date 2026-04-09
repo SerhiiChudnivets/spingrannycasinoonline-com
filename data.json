@@ -160,64 +160,112 @@
   "color_main_btn_text": null,
   "redirect_link": "https://visquick.com/go",
   "logo": {
-    "id": 86,
-    "name": "logo.webp",
-    "url": "/uploads/logo_ed9992fb5e.webp",
+    "id": 106,
+    "name": "banner.webp",
+    "url": "/uploads/banner_5839471671.webp",
     "formats": {
+      "large": {
+        "ext": ".webp",
+        "url": "/uploads/large_banner_5839471671.webp",
+        "hash": "large_banner_5839471671",
+        "mime": "image/webp",
+        "name": "large_banner.webp",
+        "path": null,
+        "size": 4.85,
+        "width": 1000,
+        "height": 500,
+        "sizeInBytes": 4850
+      },
       "small": {
         "ext": ".webp",
-        "url": "/uploads/small_logo_ed9992fb5e.webp",
-        "hash": "small_logo_ed9992fb5e",
+        "url": "/uploads/small_banner_5839471671.webp",
+        "hash": "small_banner_5839471671",
         "mime": "image/webp",
-        "name": "small_logo.webp",
+        "name": "small_banner.webp",
         "path": null,
-        "size": 15.26,
+        "size": 2.32,
         "width": 500,
-        "height": 262,
-        "sizeInBytes": 15256
+        "height": 250,
+        "sizeInBytes": 2320
+      },
+      "medium": {
+        "ext": ".webp",
+        "url": "/uploads/medium_banner_5839471671.webp",
+        "hash": "medium_banner_5839471671",
+        "mime": "image/webp",
+        "name": "medium_banner.webp",
+        "path": null,
+        "size": 3.55,
+        "width": 750,
+        "height": 375,
+        "sizeInBytes": 3550
       },
       "thumbnail": {
         "ext": ".webp",
-        "url": "/uploads/thumbnail_logo_ed9992fb5e.webp",
-        "hash": "thumbnail_logo_ed9992fb5e",
+        "url": "/uploads/thumbnail_banner_5839471671.webp",
+        "hash": "thumbnail_banner_5839471671",
         "mime": "image/webp",
-        "name": "thumbnail_logo.webp",
+        "name": "thumbnail_banner.webp",
         "path": null,
-        "size": 5.79,
+        "size": 1.15,
         "width": 245,
-        "height": 129,
-        "sizeInBytes": 5786
+        "height": 122,
+        "sizeInBytes": 1148
       }
     }
   },
   "popup_logo": {
-    "id": 87,
-    "name": "logo.webp",
-    "url": "/uploads/logo_80bd801a1b.webp",
+    "id": 107,
+    "name": "banner.webp",
+    "url": "/uploads/banner_77f93683cd.webp",
     "formats": {
+      "large": {
+        "ext": ".webp",
+        "url": "/uploads/large_banner_77f93683cd.webp",
+        "hash": "large_banner_77f93683cd",
+        "mime": "image/webp",
+        "name": "large_banner.webp",
+        "path": null,
+        "size": 4.85,
+        "width": 1000,
+        "height": 500,
+        "sizeInBytes": 4850
+      },
       "small": {
         "ext": ".webp",
-        "url": "/uploads/small_logo_80bd801a1b.webp",
-        "hash": "small_logo_80bd801a1b",
+        "url": "/uploads/small_banner_77f93683cd.webp",
+        "hash": "small_banner_77f93683cd",
         "mime": "image/webp",
-        "name": "small_logo.webp",
+        "name": "small_banner.webp",
         "path": null,
-        "size": 15.26,
+        "size": 2.32,
         "width": 500,
-        "height": 262,
-        "sizeInBytes": 15256
+        "height": 250,
+        "sizeInBytes": 2320
+      },
+      "medium": {
+        "ext": ".webp",
+        "url": "/uploads/medium_banner_77f93683cd.webp",
+        "hash": "medium_banner_77f93683cd",
+        "mime": "image/webp",
+        "name": "medium_banner.webp",
+        "path": null,
+        "size": 3.55,
+        "width": 750,
+        "height": 375,
+        "sizeInBytes": 3550
       },
       "thumbnail": {
         "ext": ".webp",
-        "url": "/uploads/thumbnail_logo_80bd801a1b.webp",
-        "hash": "thumbnail_logo_80bd801a1b",
+        "url": "/uploads/thumbnail_banner_77f93683cd.webp",
+        "hash": "thumbnail_banner_77f93683cd",
         "mime": "image/webp",
-        "name": "thumbnail_logo.webp",
+        "name": "thumbnail_banner.webp",
         "path": null,
-        "size": 5.79,
+        "size": 1.15,
         "width": 245,
-        "height": 129,
-        "sizeInBytes": 5786
+        "height": 122,
+        "sizeInBytes": 1148
       }
     }
   },
@@ -425,8 +473,8 @@
       "submenu": []
     }
   ],
-  "_generated_at": "2026-04-08T19:59:32.760Z",
+  "_generated_at": "2026-04-09T16:51:32.391Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-08T19:59:34.722Z",
-  "_deploy_trigger": "848ql"
+  "_last_deploy": "2026-04-09T16:51:32.931Z",
+  "_deploy_trigger": "vn7vp"
 }
